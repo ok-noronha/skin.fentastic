@@ -29,6 +29,7 @@
 		<control type="group">
 			<animation effect="fade" start="100" end="0" time="200" tween="sine" condition="$EXP[infodialog_active]">Conditional</animation>
 			<!-- WIDGETS GROUP -->
+			<top>620</top> <!-- Netflix Style -->
 			<control type="group" id="2000">
 				<left>462</left>
 				<include>OpenClose_Right</include>
